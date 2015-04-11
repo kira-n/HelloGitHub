@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D94A3B1E1AB41F8600D3298B /* red.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B1D1AB41F8600D3298B /* red.png */; };
+		D94A3B2F1AB41F9D00D3298B /* ao.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B1F1AB41F9D00D3298B /* ao.png */; };
+		D94A3B301AB41F9D00D3298B /* gure.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B201AB41F9D00D3298B /* gure.png */; };
+		D94A3B311AB41F9D00D3298B /* kiiro.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B211AB41F9D00D3298B /* kiiro.png */; };
+		D94A3B321AB41F9D00D3298B /* kimidori.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B221AB41F9D00D3298B /* kimidori.png */; };
+		D94A3B331AB41F9D00D3298B /* midori.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B231AB41F9D00D3298B /* midori.png */; };
+		D94A3B341AB41F9D00D3298B /* mizuiro.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B241AB41F9D00D3298B /* mizuiro.png */; };
+		D94A3B351AB41F9D00D3298B /* murasaki.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B251AB41F9D00D3298B /* murasaki.png */; };
+		D94A3B361AB41F9D00D3298B /* orange.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B261AB41F9D00D3298B /* orange.png */; };
+		D94A3B371AB41F9D00D3298B /* pink.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B271AB41F9D00D3298B /* pink.png */; };
+		D94A3B381AB41F9D00D3298B /* 雲.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B281AB41F9D00D3298B /* 雲.png */; };
+		D94A3B391AB41F9D00D3298B /* 雲２.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B291AB41F9D00D3298B /* 雲２.png */; };
+		D94A3B3A1AB41F9D00D3298B /* 雲３.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B2A1AB41F9D00D3298B /* 雲３.png */; };
+		D94A3B3B1AB41F9D00D3298B /* 雲４.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B2B1AB41F9D00D3298B /* 雲４.png */; };
+		D94A3B3C1AB41F9D00D3298B /* 雲５.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B2C1AB41F9D00D3298B /* 雲５.png */; };
+		D94A3B3D1AB41F9D00D3298B /* 雲６.png in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B2D1AB41F9D00D3298B /* 雲６.png */; };
+		D94A3B3E1AB41F9D00D3298B /* 空.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D94A3B2E1AB41F9D00D3298B /* 空.jpg */; };
 		D98D4DC81A8F670C00E2A8CE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D98D4DC71A8F670C00E2A8CE /* main.m */; };
 		D98D4DCB1A8F670C00E2A8CE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D98D4DCA1A8F670C00E2A8CE /* AppDelegate.m */; };
 		D98D4DCE1A8F670C00E2A8CE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D98D4DCD1A8F670C00E2A8CE /* ViewController.m */; };
@@ -27,6 +44,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D94A3B1D1AB41F8600D3298B /* red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red.png; sourceTree = "<group>"; };
+		D94A3B1F1AB41F9D00D3298B /* ao.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ao.png; sourceTree = "<group>"; };
+		D94A3B201AB41F9D00D3298B /* gure.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gure.png; sourceTree = "<group>"; };
+		D94A3B211AB41F9D00D3298B /* kiiro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kiiro.png; sourceTree = "<group>"; };
+		D94A3B221AB41F9D00D3298B /* kimidori.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kimidori.png; sourceTree = "<group>"; };
+		D94A3B231AB41F9D00D3298B /* midori.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = midori.png; sourceTree = "<group>"; };
+		D94A3B241AB41F9D00D3298B /* mizuiro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mizuiro.png; sourceTree = "<group>"; };
+		D94A3B251AB41F9D00D3298B /* murasaki.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = murasaki.png; sourceTree = "<group>"; };
+		D94A3B261AB41F9D00D3298B /* orange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = orange.png; sourceTree = "<group>"; };
+		D94A3B271AB41F9D00D3298B /* pink.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pink.png; sourceTree = "<group>"; };
+		D94A3B281AB41F9D00D3298B /* 雲.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "雲.png"; sourceTree = "<group>"; };
+		D94A3B291AB41F9D00D3298B /* 雲２.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "雲２.png"; sourceTree = "<group>"; };
+		D94A3B2A1AB41F9D00D3298B /* 雲３.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "雲３.png"; sourceTree = "<group>"; };
+		D94A3B2B1AB41F9D00D3298B /* 雲４.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "雲４.png"; sourceTree = "<group>"; };
+		D94A3B2C1AB41F9D00D3298B /* 雲５.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "雲５.png"; sourceTree = "<group>"; };
+		D94A3B2D1AB41F9D00D3298B /* 雲６.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "雲６.png"; sourceTree = "<group>"; };
+		D94A3B2E1AB41F9D00D3298B /* 空.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "空.jpg"; sourceTree = "<group>"; };
 		D98D4DC21A8F670C00E2A8CE /* calc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calc.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D98D4DC61A8F670C00E2A8CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D98D4DC71A8F670C00E2A8CE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -63,6 +97,23 @@
 		D98D4DB91A8F670C00E2A8CE = {
 			isa = PBXGroup;
 			children = (
+				D94A3B1F1AB41F9D00D3298B /* ao.png */,
+				D94A3B201AB41F9D00D3298B /* gure.png */,
+				D94A3B211AB41F9D00D3298B /* kiiro.png */,
+				D94A3B221AB41F9D00D3298B /* kimidori.png */,
+				D94A3B231AB41F9D00D3298B /* midori.png */,
+				D94A3B241AB41F9D00D3298B /* mizuiro.png */,
+				D94A3B251AB41F9D00D3298B /* murasaki.png */,
+				D94A3B261AB41F9D00D3298B /* orange.png */,
+				D94A3B271AB41F9D00D3298B /* pink.png */,
+				D94A3B281AB41F9D00D3298B /* 雲.png */,
+				D94A3B291AB41F9D00D3298B /* 雲２.png */,
+				D94A3B2A1AB41F9D00D3298B /* 雲３.png */,
+				D94A3B2B1AB41F9D00D3298B /* 雲４.png */,
+				D94A3B2C1AB41F9D00D3298B /* 雲５.png */,
+				D94A3B2D1AB41F9D00D3298B /* 雲６.png */,
+				D94A3B2E1AB41F9D00D3298B /* 空.jpg */,
+				D94A3B1D1AB41F8600D3298B /* red.png */,
 				D98D4DC41A8F670C00E2A8CE /* calc */,
 				D98D4DDE1A8F670C00E2A8CE /* calcTests */,
 				D98D4DC31A8F670C00E2A8CE /* Products */,
@@ -199,9 +250,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D94A3B391AB41F9D00D3298B /* 雲２.png in Resources */,
+				D94A3B351AB41F9D00D3298B /* murasaki.png in Resources */,
+				D94A3B371AB41F9D00D3298B /* pink.png in Resources */,
+				D94A3B381AB41F9D00D3298B /* 雲.png in Resources */,
+				D94A3B2F1AB41F9D00D3298B /* ao.png in Resources */,
 				D98D4DD11A8F670C00E2A8CE /* Main.storyboard in Resources */,
+				D94A3B3E1AB41F9D00D3298B /* 空.jpg in Resources */,
+				D94A3B3C1AB41F9D00D3298B /* 雲５.png in Resources */,
+				D94A3B3B1AB41F9D00D3298B /* 雲４.png in Resources */,
+				D94A3B301AB41F9D00D3298B /* gure.png in Resources */,
+				D94A3B311AB41F9D00D3298B /* kiiro.png in Resources */,
+				D94A3B3D1AB41F9D00D3298B /* 雲６.png in Resources */,
+				D94A3B361AB41F9D00D3298B /* orange.png in Resources */,
+				D94A3B1E1AB41F8600D3298B /* red.png in Resources */,
+				D94A3B341AB41F9D00D3298B /* mizuiro.png in Resources */,
 				D98D4DD61A8F670C00E2A8CE /* LaunchScreen.xib in Resources */,
 				D98D4DD31A8F670C00E2A8CE /* Images.xcassets in Resources */,
+				D94A3B321AB41F9D00D3298B /* kimidori.png in Resources */,
+				D94A3B3A1AB41F9D00D3298B /* 雲３.png in Resources */,
+				D94A3B331AB41F9D00D3298B /* midori.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,6 +480,7 @@
 				D98D4DE71A8F670C00E2A8CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D98D4DE81A8F670C00E2A8CE /* Build configuration list for PBXNativeTarget "calcTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +489,7 @@
 				D98D4DEA1A8F670C00E2A8CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
