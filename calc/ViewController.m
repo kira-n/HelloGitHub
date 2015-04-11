@@ -15,7 +15,6 @@
 @implementation ViewController
 
 
-
 -(IBAction)bt1{
     if(ope==0){
         number=number*10+1;
